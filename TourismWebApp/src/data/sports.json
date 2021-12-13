@@ -1,0 +1,6 @@
+[
+    {"_id":{"$oid":"61acfcbf70813589c8820b7b"},"name":"Coca Cola Park","address":"1050 Ironpigs Way, Allentown, PA 18109","team":"IronPigs","sport":"Minor League Baseball","__v":0},
+    {"_id":{"$oid":"61acfcf90c989b1dcfd6ad83"},"name":"Valley Preferred Cycling Center","address":"1151 Mosser Rd, Breinigsville, PA 18031","team":"N/A","sport":"Cycling","__v":0},
+    {"_id":{"$oid":"61acfd13a3c7831d49f44c6d"},"name":"Rodale Aquatic Center","address":"100 College Dr, Allentown, PA 18104","team":"N/A","sport":"Swimming","__v":0},
+    {"_id":{"$oid":"61acfd35373ff21d3857dc2d"},"name":"PPL Center","address":"701 Hamilton St, Allentown, PA 18101","team":"Lehigh Valley Phantoms","sport":"American Hockey League","__v":0}
+]

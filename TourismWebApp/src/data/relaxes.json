@@ -1,0 +1,11 @@
+[
+    {"_id":{"$oid":"61acf6e0b8910b20d0eda6ae"},"name":"Movie Tavern Trexlertown","address":"6150 Hamilton Blvd, Allentown, PA 18106","top_movies":"Encanto, Ghostbusters: Afterlife, House of Gucci, etc...","__v":0},
+    {"_id":{"$oid":"61acf70e263f610f3c48f9ce"},"name":"AMC Center Valley 16","address":"2805 Center Valley Pkwy, Center Valley, PA 18034","top_movies":"Encanto, Ghostbusters: Afterlife, House of Gucci, etc...","__v":0},
+    {"_id":{"$oid":"61acf72470d4e5f8ee27769c"},"name":"AMC Tilghman Square 8","address":"4608 Broadway, Allentown, PA 18104","top_movies":"Encanto, Ghostbusters: Afterlife, House of Gucci, etc...","__v":0},
+    {"_id":{"$oid":"61acf74a97849475daa4bdec"},"name":"Emmaus Theatre","address":"19 S Fourth St, Emmaus, PA 18049","top_movies":"The French Dispatch, Silent Night, etc...","__v":0},
+    {"_id":{"$oid":"61acf76d0fad6c5792dd4b44"},"name":"AMC Classic Allentown 16","address":"1700 Catasauqua Rd, Allentown, PA 18109","top_movies":"Encanto, Ghostbusters: Afterlife, House of Gucci, etc...","__v":0},
+    {"_id":{"$oid":"61acf8004da98062b5a64c00"},"name":"Shankweiler's Drive-In Theatre","address":"4540 Shankweiler Rd, Orefield, PA 18069","top_movies":"Closed for the Season N/A","__v":0},
+    {"_id":{"$oid":"61acf9af8f481cdb4b75afa1"},"name":"Allentown Public Theater","address":"127 N 10th St, Allentown, PA 18102","top_shows":"The Ugly Duckling, Basement Poetry, etc...","__v":0},
+    {"_id":{"$oid":"61acf9bd3aa55e34af7c5ca4"},"name":"Miller Symphony Hall","address":"23 N 6th St, Allentown, PA 18101","top_shows":"Nutcracker, Peter & Will Anderson Present A Jazzy Holiday, etc...","__v":0},
+    {"_id":{"$oid":"61acfa0f3028addbf94e51fd"},"name":"19th Street Theater","address":"527 N 19th St, Allentown, PA 18104","top_shows":"King Richard, Last Night in Soho, etc...","__v":0}
+]

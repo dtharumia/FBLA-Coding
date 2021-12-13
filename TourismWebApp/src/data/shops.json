@@ -1,0 +1,12 @@
+[
+    {"_id":{"$oid":"61a549c3806df83e3703afc1"},"name":"The Promenade Shops at Saucon Valley","address":"2845 Center Valley Pkwy, Center Valley, PA 18034","website":"https://www.thepromenadeshopsatsauconvalley.com/","__v":0},
+    {"_id":{"$oid":"61a54a14f28f1018bf43824b"},"name":"Lehigh Valley Mall","address":"250 Lehigh Valley Mall, Whitehall, PA 18052","website":"https://www.simon.com/mall/lehigh-valley-mall","__v":0},
+    {"_id":{"$oid":"61a54a791c2d71ec43466fb9"},"name":"Whitehall Mall","address":"1259 Whitehall Mall, Whitehall, PA 18052","website":"N/A","__v":0},
+    {"_id":{"$oid":"61a54a981c519c9fbf99d951"},"name":"Hamilton Crossing","address":"Hamilton Blvd, Allentown, PA 18106","website":"https://www.hamiltoncrossings.com/","__v":0},
+    {"_id":{"$oid":"61a54ab7eb8dfe741eb84917"},"name":"The Outlets at Wind Creek","address":"77 Wind Creek Blvd, Bethlehem, PA 18015","website":"https://www.outletsatwindcreekbethlehem.com/","__v":0},
+    {"_id":{"$oid":"61a54ad0f6340030daf76d4e"},"name":"Dorneyville shopping Center","address":"3227 Hamilton Blvd, Allentown, PA 18104","website":"N/A","__v":0},
+    {"_id":{"$oid":"61a54b1a0ae784af708edfcb"},"name":"South Mall","address":"3300 Lehigh St, Allentown, PA 18103","website":"https://shopsouthmall.com/","__v":0},
+    {"_id":{"$oid":"61a54b2fe2d5416702f33185"},"name":"Trexler Mall","address":"6900 Hamilton Blvd, Trexlertown, PA 18087","website":"N/A","__v":0},
+    {"_id":{"$oid":"61a54b521729e1a3c7c23756"},"name":"Allentown Commons","address":"1302 Hanover Ave, Allentown, PA 18109","website":"N/A","__v":0},
+    {"_id":{"$oid":"61a54b6381057e17a07035cc"},"name":"Westgate Mall","address":"2285 Schoenersville Rd, Bethlehem, PA 18017","website":"N/A","__v":0}
+]

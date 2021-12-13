@@ -1,0 +1,12 @@
+[
+    {"_id":{"$oid":"61acfacf8eede0b1b9d9667d"},"name":"Lone Lane Park","address":"30 Lone Ln, Allentown, PA 18104","things_to_do":"Walking trail, playground, basketball court, volleyball court, etc","__v":0},
+    {"_id":{"$oid":"61acfaff3388fb959146106e"},"name":"Grange Park","address":"360 Grange Rd, Allentown, PA 18106","things_to_do":"Walking trail, playground, water playarea, basketball court, picketball court, etc","__v":0},
+    {"_id":{"$oid":"61acfb41d93d937315ea4c05"},"name":"Trexler Memorial Park","address":"155 Springhouse Rd, Allentown, PA 18104","things_to_do":"Walking trail, duck pond, etc","__v":0},
+    {"_id":{"$oid":"61acfb9d6303acbd944020c8"},"name":"Rodale Park","address":"1148 Mosser Rd, Breinigsville, PA 18031","things_to_do":"Walking trail, playarea, cricket field, biking track, etc","__v":0},
+    {"_id":{"$oid":"61acfbc1bc510f2c7d2f89f1"},"name":"Cedar Beach Park","address":"2600 Parkway Blvd, Allentown, PA 18104","things_to_do":"Walking trail, pool, volleyball court, basketball court, etc","__v":0},
+    {"_id":{"$oid":"61acfbebd6fe853225d4e1f1"},"name":"Covered Bridge Park","address":"2465 Wehr Mill Rd, Allentown, PA 18104","things_to_do":"Walking trail, basketball court, playground, garden, etc","__v":0},
+    {"_id":{"$oid":"61acfc0c96be67775da0f04f"},"name":"Lehigh Parkway","address":"Lehigh Parkway E, Allentown, PA 18103","things_to_do":"Walking trail, creek, bridge, etc","__v":0},
+    {"_id":{"$oid":"61acfc222e8bc6d28b73e295"},"name":"Cedar Creek Park","address":"2700 Parkway Blvd, Allentown, PA 18104","things_to_do":"Walking trail, garden, playground, etc","__v":0},
+    {"_id":{"$oid":"61acfc3d07a16ecebf46774e"},"name":"Fountain Park","address":"961-967 Martin Luther King Jr Dr, Allentown, PA 18102","things_to_do":"Walking trail, baseball field, soccer field, playground, etc","__v":0},
+    {"_id":{"$oid":"61acfc65a6596a85492113f4"},"name":"Bucky Boyle Park","address":"10 Pump Pl, Allentown, PA 18102","things_to_do":"Walking trail, basketball court, football field, baseball field, playround, water playarea, etc","__v":0}
+]

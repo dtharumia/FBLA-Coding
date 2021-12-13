@@ -1,0 +1,12 @@
+[
+    {"_id":{"$oid":"61ad425f855b8fa2bbc9ef31"},"name":"America on Wheels","address":"5 N Front St, Allentown, PA 18102","phone_number":"(610) 432-4200","__v":0},
+    {"_id":{"$oid":"61ad42844a97fe4049399d81"},"name":"Dorney Park & Wildwater Kingdom","address":"4000 Dorney Park Rd, Allentown, PA 18104","phone_number":"(610) 395-3724","__v":0},
+    {"_id":{"$oid":"61ad4297fc8c0608773669d0"},"name":"Crayola Experience","address":"30 Centre Square, Easton, PA 18042","phone_number":"(610) 515-8000","__v":0},
+    {"_id":{"$oid":"61ad42aaa0260d85c19c4d02"},"name":"Lehigh Valley Zoo","address":"5150 Game Preserve Rd, Schnecksville, PA 18078","phone_number":"(610) 799-4171","__v":0},
+    {"_id":{"$oid":"61ad42c1aec5df12aeb47227"},"name":"Mack Trucks Historical Museum","address":"2402 Lehigh Pkwy S, Allentown, PA 18103","phone_number":"(610) 351-8999","__v":0},
+    {"_id":{"$oid":"61ad430f48774794b131fdbc"},"name":"Da Vinci Science Center","address":"3145 Hamilton Blvd Bypass, Allentown, PA 18103","phone_number":"(484) 664-1002","__v":0},
+    {"_id":{"$oid":"61ad432064e2b6cd94e39c2d"},"name":"Allentown Art Museum","address":"31 N 5th St, Allentown, PA 18101","phone_number":"(610) 432-4333","__v":0},
+    {"_id":{"$oid":"61ad4342f6a572ee3c2b4775"},"name":"Liberty Bell Museum","address":"622 Hamilton St, Allentown, PA 18101","phone_number":"(610) 432-4333","__v":0},
+    {"_id":{"$oid":"61ad4353a7bb43f1c653b9e7"},"name":"Lehigh Valley Heritage Museum","address":"432 Walnut St, Allentown, PA 18102","phone_number":"(610) 435-1074","__v":0},
+    {"_id":{"$oid":"61ad43651075377ec008a337"},"name":"Burnside Plantation","address":"1461 Schoenersville Rd, Bethlehem, PA 18018","phone_number":"(610) 882-0450","__v":0}
+]

@@ -1,0 +1,12 @@
+[
+    {"_id":{"$oid":"61ad123ea0e4ec2b3b0848de"},"name":"Biryani City","address":"1894 Catasauqua Rd, Allentown, PA 18109","cuisine":"Indian","price":2,"__v":0},
+    {"_id":{"$oid":"61ad125b9ccc5688cb7ff6ae"},"name":"Florence Italian Grill","address":"238 Sycamore Rd, Breinigsville, PA 18031","cuisine":"Italian","price":2,"__v":0},
+    {"_id":{"$oid":"61ad126fb65852120d94152c"},"name":"Melting Pot","address":"1 E Broad St Ste 100, Bethlehem, PA 18018","cuisine":"Swiss","price":3,"__v":0},
+    {"_id":{"$oid":"61ad128386517145331045ae"},"name":"Cumin N Eat","address":"3333 Hamilton Blvd, Allentown, PA 18104","cuisine":"Indian","price":2,"__v":0},
+    {"_id":{"$oid":"61ad129a49dea41b19727496"},"name":"Savory Grille","address":"2934 Seisholtzville Rd, Macungie, PA 18062","cuisine":"American","price":4,"__v":0},
+    {"_id":{"$oid":"61ad12ad3e13c11ecb8590a6"},"name":"Copperhead Grille","address":"1731 Airport Rd, Allentown, PA 18109","cuisine":"American","price":2,"__v":0},
+    {"_id":{"$oid":"61ad12c5d366c921f3626df4"},"name":"Sunset Grille","address":"6751 Ruppsville Rd, Allentown, PA 18106","cuisine":"Tex-Mex","price":2,"__v":0},
+    {"_id":{"$oid":"61ad130722b776fd36abf0b9"},"name":"The Wooden Match","address":"61 W Lehigh St, Bethlehem, PA 18018","cuisine":"American","price":2,"__v":0},
+    {"_id":{"$oid":"61ad131847cdbcc28cec00ef"},"name":"Ichiban","address":"1914 Catasauqua Rd, Allentown, PA 18109","cuisine":"Japanese","price":2,"__v":0},
+    {"_id":{"$oid":"61ad1327cb835ef10d14eaed"},"name":"Grille 3501","address":"3501 Broadway, Allentown, PA 18104","cuisine":"Japanese","price":2,"__v":0}
+]
